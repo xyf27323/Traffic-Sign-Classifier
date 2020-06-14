@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/DELL/Desktop/Traffic-Sign-Classifier/Traffic Sign Classifier myself/model/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/DELL/Desktop/Traffic-Sign-Classifier/Traffic Sign Classifier myself/model/model.ckpt"
